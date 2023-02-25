@@ -1,5 +1,6 @@
 
 {
+    // Constructor Function == Class
     function Person(){
     }
 
